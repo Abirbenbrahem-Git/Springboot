@@ -44,4 +44,4 @@ public class CourseController {
 			listCourse = courseService.getCourseBytitre(titre);
 			return listCourse;
 		}
-	}
+	
